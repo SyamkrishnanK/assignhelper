@@ -9,8 +9,12 @@
         "prepublish": "npm run build"
 
     },
-    "author": "Jithu Syam",
+    "author": "K Syamkrishnan",
     "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SyamkrishnanK/assignhelper.git"
+    },
     "devDependencies": {
         "babel-cli": "^6.24.0",
         "babel-plugin-transform-object-rest-spread": "^6.23.0",
